@@ -1,3 +1,3 @@
 FROM nginx
-COPY . /usr/share/nginx/html
+COPY . /usr/local/apache2/htdocs
 
